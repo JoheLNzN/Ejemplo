@@ -11,3 +11,8 @@ Maecenas rutrum leo sed nisi dapibus malesuada. Nunc sed ipsum at enim porttitor
 
 [Nach - Viviendo](https://www.youtube.com/watch?v=AtaE1BpbZKc)
 
+```public static void isValid(string name)
+```{
+```     return !string.isNullOrEmpty(name);
+```}
+
